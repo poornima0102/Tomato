@@ -7,11 +7,17 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+<<<<<<< HEAD
     "preview": "vite preview",
     "serve": "vite preview"
   },
   "dependencies": {
     "axios": "^1.7.2",
+=======
+    "preview": "vite preview"
+  },
+  "dependencies": {
+>>>>>>> b361037 (Created project)
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.23.1"

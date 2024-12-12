@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React, { useState } from 'react'
 import Navbar from './components/Navbar/Navbar'
 import {Route, Routes} from 'react-router-dom'
@@ -27,6 +28,15 @@ const App = () => {
     </div>
     <Footer/>
     </>
+=======
+import React from 'react'
+
+const App = () => {
+  return (
+    <div>
+      
+    </div>
+>>>>>>> b361037 (Created project)
   )
 }
 
